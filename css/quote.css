@@ -1,0 +1,48 @@
+body {
+  margin-top: 60px;
+  font-family: 'Helvetica';
+  color: #000000 !important;
+  background: #FF595E !important;
+  text-align: center;
+}
+
+h1 {
+  color: #FFCA3A !important;
+}
+
+small {
+  float right
+}
+
+.movie {
+  padding: 20px 30px;
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 50px;
+  background: #8AC926 !important;
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+}
+
+.getQuote {
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #1982C4 !important;
+  border: none;
+  color: #0D1B1E;
+  border-radius: 5px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.twitter {
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #1982C4 !important;
+  border: none;
+  color: #0D1B1E;
+  border-radius: 5px;
+  text-transform: uppercase;
+  text-align: center;
+}
